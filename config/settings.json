@@ -1,0 +1,6 @@
+{
+  "markets": {
+    "XAUUSD": {"symbol": "XAUUSD", "pip_size": 0.1},
+    "EURUSD": {"symbol": "EURUSD", "pip_size": 0.0001}
+  }
+}

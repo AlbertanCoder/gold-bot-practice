@@ -1,0 +1,9 @@
+{
+  "gold": {"words": ["gold", "bullion", "safe haven", "safe-haven"]},
+  "fed_dollar": {"words": ["Fed", "FOMC", "Powell", "Federal Reserve", "dollar", "rate cut", "rate hike"], "case_sensitive": true},
+  "inflation": {"words": ["inflation", "CPI", "PCE", "prices"]},
+  "jobs": {"words": ["payrolls", "jobs report", "unemployment", "jobless claims"]},
+  "geopolitics": {"words": ["war", "missile", "sanctions", "ceasefire", "tensions"]},
+  "treasury_yields": {"words": ["Treasury yields", "10-year yield", "bond yields"]},
+  "oil": {"words": ["oil", "crude", "OPEC"]}
+}
