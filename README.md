@@ -1,7 +1,7 @@
 # gold-bot-practice
 
 A small, safe Python project for learning. It is the practice project for the Python module of the free
-[Hackathon Sim course](https://albertancoder.github.io/hackathon-sim/). It is shaped like a real Discord bot
+[Edmonton Tech Academy course](https://albertancoder.github.io/hackathon-sim/). It is shaped like a real Discord bot
 that reads gold-market news, but it sends nothing anywhere and trades nothing.
 
 ## Get it running
